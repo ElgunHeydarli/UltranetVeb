@@ -7,3 +7,5 @@ Disallov: /mail/
 Disallov: /basvuru/
 
 Sitemap: https://ultranet.az/sitemap.xml.gz
+
+test
