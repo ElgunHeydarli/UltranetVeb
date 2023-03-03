@@ -1,0 +1,9 @@
+User-agent: *
+Disallov: /admin/
+Disallov: /admin/islem.php/
+
+User-agent: *
+Disallov: /mail/
+Disallov: /basvuru/
+
+Sitemap: https://ultranet.az/sitemap.xml.gz
